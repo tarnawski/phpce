@@ -1,0 +1,8 @@
+---
+project_name: phpce
+project_root: "/var/www/{{ project_name }}"
+project_web_root: "{{ project_root }}"
+
+mysql_port: 3306
+mysql_user: root
+mysql_pass: rootpassword
